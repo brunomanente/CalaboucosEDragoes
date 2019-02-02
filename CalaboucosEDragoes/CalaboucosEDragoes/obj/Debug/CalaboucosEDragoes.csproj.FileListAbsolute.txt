@@ -1,0 +1,7 @@
+C:\Users\bruno.msouza17\Desktop\Projetos 2019\TJ2018\2019\Fevereiro\CalaboucosEDragoes\CalaboucosEDragoes\bin\Debug\CalaboucosEDragoes.exe.config
+C:\Users\bruno.msouza17\Desktop\Projetos 2019\TJ2018\2019\Fevereiro\CalaboucosEDragoes\CalaboucosEDragoes\bin\Debug\CalaboucosEDragoes.exe
+C:\Users\bruno.msouza17\Desktop\Projetos 2019\TJ2018\2019\Fevereiro\CalaboucosEDragoes\CalaboucosEDragoes\bin\Debug\CalaboucosEDragoes.pdb
+C:\Users\bruno.msouza17\Desktop\Projetos 2019\TJ2018\2019\Fevereiro\CalaboucosEDragoes\CalaboucosEDragoes\obj\Debug\CalaboucosEDragoes.csprojAssemblyReference.cache
+C:\Users\bruno.msouza17\Desktop\Projetos 2019\TJ2018\2019\Fevereiro\CalaboucosEDragoes\CalaboucosEDragoes\obj\Debug\CalaboucosEDragoes.csproj.CoreCompileInputs.cache
+C:\Users\bruno.msouza17\Desktop\Projetos 2019\TJ2018\2019\Fevereiro\CalaboucosEDragoes\CalaboucosEDragoes\obj\Debug\CalaboucosEDragoes.exe
+C:\Users\bruno.msouza17\Desktop\Projetos 2019\TJ2018\2019\Fevereiro\CalaboucosEDragoes\CalaboucosEDragoes\obj\Debug\CalaboucosEDragoes.pdb
